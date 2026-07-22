@@ -8,12 +8,12 @@
   <title>BOTAKHOKI - Link Login Situs Gaming Exclusive Super Cepat 2026</title>
   <link rel="icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" />
   <link rel="apple-touch-icon" href="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png">
-  <link rel="canonical" href="https://bdiusa.org/">
-  <link rel="amphtml" href="https://bdiusa.botakhoki.online/" />
-  <link rel="alternate" hreflang="id-id" href="https://bdiusa.botakhoki.online/" />
-  <link rel="alternate" href="https://bdiusa.botakhoki.online/" />
-  <link rel="alternate" hreflang="id" href="https://bdiusa.botakhoki.online/" />
-  <link rel="alternate" hreflang="en" href="https://bdiusa.botakhoki.online/" />
+  <link rel="canonical" href="https://www.janaagraha.org/">
+  <link rel="amphtml" href="https://janaagraha.botakhoki.online/" />
+  <link rel="alternate" hreflang="id-id" href="https://janaagraha.botakhoki.online/" />
+  <link rel="alternate" href="https://janaagraha.botakhoki.online/" />
+  <link rel="alternate" hreflang="id" href="https://janaagraha.botakhoki.online/" />
+  <link rel="alternate" hreflang="en" href="https://janaagraha.botakhoki.online/" />
   <link as='image' href='https://ada-gambaran.pages.dev/botakhoki/bannerbot1.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -18738,7 +18738,7 @@
   <meta property="og:price:amount" content="100.00">
   <meta property="og:price:currency" content="USD">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://bdiusa.org/">
+  <meta property="og:url" content="https://www.janaagraha.org/">
   <meta property="og:image" content="https://ada-gambaran.pages.dev/botakhoki/bannerbot1.png">
   <meta property="og:site_name" content="Botakhoki">
   <meta property="product:price:amount" content="100.00">
@@ -18790,7 +18790,7 @@
       "name": "BOTAKHOKI - Link Login Situs Gaming Exclusive Super Cepat 2026",
       "description": "BOTAKHOKI merupakan link login situs gaming exclusive super cepat 2026 dengan akses stabil, proses login mudah, tampilan responsif, dan update link terbaru setiap hari.",
       "category": "BOTAK HOKI",
-      "url": "https://bdiusa.org/",
+      "url": "https://www.janaagraha.org/",
       "sku": "2A404I26",
       "image": {
         "@type": "ImageObject",
@@ -18819,42 +18819,42 @@
         "@type": "ListItem",
         "position": 1,
         "name": "BOTAKHOKI",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 2,
         "name": "BOTAKHOKI LOGIN",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 3,
         "name": "BOTAKHOKI DAFTAR",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 4,
         "name": "LINK BOTAKHOKI",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 5,
         "name": "SITUS BOTAKHOKI",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 6,
         "name": "BOTAKHOKI RESMI",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 7,
         "name": "LINK ALTERNATIF BOTAKHOKI",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }, {
         "@type": "ListItem",
         "position": 8,
         "name": "BOTAKHOKI - Link Login Situs Gaming Exclusive Super Cepat 2026",
-        "item": "https://bdiusa.org/"
+        "item": "https://www.janaagraha.org/"
       }]
     }
   </script>
@@ -18863,7 +18863,7 @@
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Botakhoki",
-      "url": "https://bdiusa.org/",
+      "url": "https://www.janaagraha.org/",
       "logo": "https://ada-gambaran.pages.dev/botakhoki/logobtk.png",
       "sameAs": ["https://www.facebook.com/botakhoki", "https://x.com/botakhoki", "https://www.instagram.com/botakhoki"],
       "contactPoint": {
@@ -18935,12 +18935,12 @@
               <path fill-rule="evenodd" d="" clip-rule="evenodd"></path>
             </svg></span>
           <div class='button__content'>
-            <span class='vc-header__shop-button-text'><a href="https://bdiusa.org/">Shop</a></span>
+            <span class='vc-header__shop-button-text'><a href="https://www.janaagraha.org/">Shop</a></span>
           </div>
         </button>
       </div>
       <div class="vc-header-logo">
-        <a aria-label="Home Link" title="Home" href="https://bdiusa.org/" class="link vc-header-logo__wrapper link--1 link--default">
+        <a aria-label="Home Link" title="Home" href="https://www.janaagraha.org/" class="link vc-header-logo__wrapper link--1 link--default">
           <span class='link__content'>
             <picture>
               <source srcset="https://ada-gambaran.pages.dev/botakhoki/logobtk.png" type="image/webp">
@@ -18953,7 +18953,7 @@
       </div>
       <div class='vc-header__search-container'>
         <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-          <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://bdiusa.org/" accept-charset="UTF-8" method="post">
+          <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://www.janaagraha.org/" accept-charset="UTF-8" method="post">
             <input type="hidden" name="_method" value="patch" autocomplete="off" />
             <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
             <div class='m-header__search-field-container'>
@@ -18991,7 +18991,7 @@
       </div>
       <div class='vc-header__actions-container'>
         <div class='vc-header__account'>
-          <a href="https://bdiusa.botakhoki.online/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true">
+          <a href="https://janaagraha.botakhoki.online/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true">
                   <path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path>
                 </svg></span>
               <div class='button__content'>
@@ -19000,7 +19000,7 @@
             </button></a>
         </div>
         <div class='vc-header__cart'>
-          <a href="https://bdiusa.org/"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart" data-targeted-tray="Cart">
+          <a href="https://www.janaagraha.org/"><button type="button" class="btn vc-header__cart-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#lazyloadCartTray" data-button-label="Cart" data-targeted-tray="Cart">
               <div class='button__content'>
                 <div class="vc-badge-notification jsNotificationBadge vc-header__cart-badge vc-badge-notification--default" data-controller="badges--notification" data-badges--notification-count-value="0"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent vc-badge-notification__icon"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true">
                       <path d="M7 4a3 3 0 1 0 0 6c1.053 0 1.64.11 2.015.332.196.117.747.49 1.026 2.161a770.83 770.83 0 0 0 1.62 9.423c.516 2.863 1.016 5.464 1.34 6.574.348 1.193 1.037 2.88 2.546 4.273 1.575 1.453 3.756 2.322 6.567 2.322H38a3 3 0 1 0 0-6H22.114c-1.501 0-2.168-.428-2.498-.732-.395-.365-.666-.895-.855-1.543a22.139 22.139 0 0 1-.333-1.431c.27.074.52.127.739.16 1.556.224 6.006.506 9.86.455 2.997-.04 5.978-.178 7.658-.456 1.68-.278 4.454-1.678 5.256-3.634C42.896 19.58 44 15.678 44 13.58c0-2.097-.405-3.652-4.191-3.577-2.55.05-5.02.033-7.394.016-1.152-.008-2.282-.016-3.387-.016h-13.41c-.65-2.205-1.848-3.823-3.535-4.827C10.212 4.063 8.187 4 7 4Zm16 36.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM37.5 44a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z"></path>
@@ -19011,7 +19011,7 @@
             </button></a>
         </div>
         <div class='vc-header__cta'>
-          <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://bdiusa.botakhoki.online/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+          <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://janaagraha.botakhoki.online/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
             <span class='link__content'> BUAT AKUN </span>
           </a>
         </div>
@@ -19029,24 +19029,24 @@
       <div class='m-tab-nav__content'>
         <div class="m-tab-nav__tab-content" data-utilities--tab-target="content" data-tab-content-index="0">
           <div class='m-explore-nav__tab-content'>
-            <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://bdiusa.org/" class="link m-explore-nav__cta link--1 link--default">
+            <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shop All Designs" data-href="/t-shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__cta link--1 link--default">
               <span class='link__content'> BOTAK HOKI </span>
             </a>
-            <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://bdiusa.org/" title="Halloween T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://www.janaagraha.org/" title="Halloween T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> BOTAKHOKI </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://bdiusa.org/" title="Music T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://www.janaagraha.org/" title="Music T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> BOTAKHOKI LOGIN </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://bdiusa.org/" title="Sport T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://www.janaagraha.org/" title="Sport T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> BOTAKHOKI DAFTAR </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://bdiusa.org/" title="Movie T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.janaagraha.org/" title="Movie T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> LINK BOTAKHOKI </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://bdiusa.org/" title="Vintage T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://www.janaagraha.org/" title="Vintage T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> SITUS BOTAKHOKI </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://bdiusa.org/" title="Animal T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://www.janaagraha.org/" title="Animal T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> BOTAKHOKI RESMI </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://bdiusa.org/" title="Television T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://www.janaagraha.org/" title="Television T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> LINK ALTERNATIF BOTAKHOKI </span>
-            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://bdiusa.org/" title="Funny T-Shirts" href="https://bdiusa.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+            </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://www.janaagraha.org/" title="Funny T-Shirts" href="https://www.janaagraha.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://ada-gambaran.pages.dev/botakhoki/faviconbtk.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
               <span class='link__content'> BOTAKHOKI LOGIN CEPAT </span>
             </a>
           </div>
@@ -19142,13 +19142,13 @@
                           </div>
                         </div>
                         <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-                          <a data-id="0 " href="https://bdiusa.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on ">
+                          <a data-id="0 " href="https://www.janaagraha.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on ">
                             <span class='link__content'>
                               <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
                                 <img alt='BOTAKHOKI - Link Login Situs Gaming Exclusive Super Cepat 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://ada-gambaran.pages.dev/botakhoki/bannerbot1.png'>
                               </picture>
                             </span>
-                          </a><a data-id="1 " href="https://bdiusa.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl ">
+                          </a><a data-id="1 " href="https://www.janaagraha.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl ">
                             <span class='link__content'>
                               <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
                                 <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://ada-gambaran.pages.dev/botakhoki/bannerbot1.png'>
@@ -19166,8 +19166,8 @@
                       <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
                         <div class='m-cart-config__select-label'>
                         </div>
-                        <a href="https://bdiusa.botakhoki.online/" class="btn-x ">DAFTAR</a>
-                        <a href="https://bdiusa.botakhoki.online/" class="btn-x ">LOGIN</a>
+                        <a href="https://janaagraha.botakhoki.online/" class="btn-x ">DAFTAR</a>
+                        <a href="https://janaagraha.botakhoki.online/" class="btn-x ">LOGIN</a>
                         <style>
                           .btn-x {
                             display: inline-block;
@@ -19333,10 +19333,10 @@
         <div class='contain contain--wide-3'>
           <h1 style="text-align: center; color: #ff9200;">BOTAKHOKI - Link Login Situs Gaming Exclusive Super Cepat 2026</h1>
           <p style="margin-bottom: 15px; text-align: justify;">
-        <strong><a href="https://bdiusa.org/" style="color: #e74c3c; text-decoration: none; font-weight: bold;">BOTAKHOKI</a></strong> hadir sebagai platform yang menyediakan <em>link login situs gaming exclusive super cepat 2026</em> dengan akses yang stabil, praktis, dan mudah digunakan di berbagai perangkat. Pengguna dapat menemukan informasi mengenai link alternatif terbaru yang diperbarui secara berkala sehingga proses login menjadi lebih lancar ketika mengalami kendala akses. Dengan tampilan yang responsif serta navigasi yang sederhana, <em>BOTAKHOKI</em> dirancang untuk memberikan pengalaman akses yang lebih nyaman kapan saja.</p>
+        <strong><a href="https://www.janaagraha.org/" style="color: #e74c3c; text-decoration: none; font-weight: bold;">BOTAKHOKI</a></strong> hadir sebagai platform yang menyediakan <em>link login situs gaming exclusive super cepat 2026</em> dengan akses yang stabil, praktis, dan mudah digunakan di berbagai perangkat. Pengguna dapat menemukan informasi mengenai link alternatif terbaru yang diperbarui secara berkala sehingga proses login menjadi lebih lancar ketika mengalami kendala akses. Dengan tampilan yang responsif serta navigasi yang sederhana, <em>BOTAKHOKI</em> dirancang untuk memberikan pengalaman akses yang lebih nyaman kapan saja.</p>
           <br>
           <p style="text-align: justify;">
-        Selain menyediakan informasi link login terbaru, BOTAKHOKI juga terus melakukan pembaruan agar pengguna memperoleh akses yang cepat dan efisien. Halaman ini menyajikan informasi yang mudah dipahami, kompatibel untuk desktop maupun smartphone, serta diperbarui secara rutin agar tetap relevan. Jika Anda mencari BOTAKHOKI, <strong><a href="https://bdiusa.org/" style="color: #e74c3c; text-decoration: none;">link login BOTAKHOKI</a></strong>, BOTAKHOKI alternatif, atau situs gaming exclusive super cepat 2026, halaman ini dapat menjadi referensi untuk mendapatkan informasi akses terbaru dengan lebih mudah.</p>
+        Selain menyediakan informasi link login terbaru, BOTAKHOKI juga terus melakukan pembaruan agar pengguna memperoleh akses yang cepat dan efisien. Halaman ini menyajikan informasi yang mudah dipahami, kompatibel untuk desktop maupun smartphone, serta diperbarui secara rutin agar tetap relevan. Jika Anda mencari BOTAKHOKI, <strong><a href="https://www.janaagraha.org/" style="color: #e74c3c; text-decoration: none;">link login BOTAKHOKI</a></strong>, BOTAKHOKI alternatif, atau situs gaming exclusive super cepat 2026, halaman ini dapat menjadi referensi untuk mendapatkan informasi akses terbaru dengan lebih mudah.</p>
           <style>
             .Botakhoki-exclusive-container {
               max-width: 1200px;
@@ -19537,43 +19537,43 @@
               <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
                 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
                 <nav class='m-design__additional-info-list'>
-                  <div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                  <div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim "><a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAK HOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI LOGIN </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI DAFTAR </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> LINK BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> SITUS BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI RESMI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> OFFICIAL BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> LINK ALTERNATIF BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI TERPERCAYA </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI EXCLUSIVE</span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> LOGIN VVIP BOTAKHOKI </span>
                     </a>
-                    <a href="https://bdiusa.org/" class="link vc-pill vc-pill--on-light link--default ">
+                    <a href="https://www.janaagraha.org/" class="link vc-pill vc-pill--on-light link--default ">
                       <span class='link__content'> BOTAKHOKI LOGIN CEPAT </span>
                     </a>
                   </div>
@@ -19603,7 +19603,7 @@
               <p class='m-footer__guarantee-subtext'> 100% Aman & Nyaman </p>
             </div>
             <p class='m-footer__guarantee-link'>
-              <a target="_blank" href="https://bdiusa.org/" class="link link__cta link__cta--on-dark link--default">
+              <a target="_blank" href="https://www.janaagraha.org/" class="link link__cta link__cta--on-dark link--default">
                 <span class='link__content'> BOTAK HOKI </span>
               </a>
             </p>
@@ -19613,28 +19613,28 @@
           <div class="link-collection m-foot__links-section ">
             <div class="link-collection__body ">
               <h4 class="h__h4 link-collection__header h--no-s ">Support</h4>
-              <div class="link-collection__content "><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+              <div class="link-collection__content "><a data-gtm-footer-link-text="Order Status " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Order Status </span>
                 </a>
-                <a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Contact Us </span>
                 </a>
-                <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Coupon Codes " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Coupon Codes </span>
                 </a>
-                <a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="FAQ " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> FAQ </span>
                 </a>
-                <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Free Shipping " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Free Shipping </span>
                 </a>
-                <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Refunds &amp; Returns " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Refunds &amp; Returns </span>
                 </a>
-                <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Shipping Info " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Shipping Info </span>
                 </a>
-                <a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Size Chart " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Size Chart </span>
                 </a>
               </div>
@@ -19643,25 +19643,25 @@
           <div class="link-collection m-foot__links-section ">
             <div class="link-collection__body ">
               <h4 class="h__h4 link-collection__header h--no-s ">About Us</h4>
-              <div class="link-collection__content "><a data-gtm-footer-link-text="About Us " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+              <div class="link-collection__content "><a data-gtm-footer-link-text="About Us " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> About Us </span>
                 </a>
-                <a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Accessibility " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Accessibility </span>
                 </a>
-                <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Create a Dashery Store " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Create a Dashery Store </span>
                 </a>
-                <a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Careers " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Careers </span>
                 </a>
-                <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Hire an Artist " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Hire an Artist </span>
                 </a>
-                <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Social Responsibility " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Social Responsibility </span>
                 </a>
-                <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="TeePublic Reviews " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> TeePublic Reviews </span>
                 </a>
               </div>
@@ -19670,22 +19670,22 @@
           <div class="link-collection m-foot__links-section ">
             <div class="link-collection__body ">
               <h4 class="h__h4 link-collection__header h--no-s ">Explore</h4>
-              <div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+              <div class="link-collection__content "><a data-gtm-footer-link-text="All Designs " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> All Designs </span>
                 </a>
-                <a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Content Directory " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Content Directory </span>
                 </a>
-                <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Featured Designers " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Featured Artists </span>
                 </a>
-                <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Newest Designers " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Newest Designers </span>
                 </a>
-                <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Newest T-Shirts " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Newest T-Shirts </span>
                 </a>
-                <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="Tag Directory " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Tag Directory </span>
                 </a>
               </div>
@@ -19694,14 +19694,14 @@
           <div class="link-collection m-foot__links-section ">
             <div class="link-collection__body ">
               <h4 class="h__h4 link-collection__header h--no-s ">Artists</h4>
-              <div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+              <div class="link-collection__content "><a data-gtm-footer-link-text="Create " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> Artist Signup </span>
                 </a>
-                <a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link
+                <a data-gtm-footer-link-text="Design Guide " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link
                     link--1 link--default ">
                   <span class='link__content'> Design Guide </span>
                 </a>
-                <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://bdiusa.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
+                <a data-gtm-footer-link-text="TeePublic Blog " style="--animation-order: " href="https://www.janaagraha.org/" class="link gtmFooterLink link-collection__link link--1 link--default ">
                   <span class='link__content'> TeePublic Blog </span>
                 </a>
               </div>
@@ -19824,19 +19824,19 @@
           </div>
         </div>
         <div class='m-footer__legal-bar-subnav'>
-          <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " target="_blank " href="https://bdiusa.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+          <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " target="_blank " href="https://www.janaagraha.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
             <span class='link__content'> Product Safety </span>
           </a>
-          <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " href="https://bdiusa.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+          <a data-gtm-footer-link-text="Copyright Policy " rel="nofollow " href="https://www.janaagraha.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
             <span class='link__content'> Intellectual Property Policy </span>
           </a>
-          <a data-gtm-footer-link-text="CCPA " rel="nofollow " href="https://bdiusa.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+          <a data-gtm-footer-link-text="CCPA " rel="nofollow " href="https://www.janaagraha.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
             <span class='link__content'> CA: Do Not Sell My Personal Information </span>
           </a>
-          <a data-gtm-footer-link-text="Privacy Policy " rel="nofollow " href="https://bdiusa.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+          <a data-gtm-footer-link-text="Privacy Policy " rel="nofollow " href="https://www.janaagraha.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
             <span class='link__content'> Privacy Policy </span>
           </a>
-          <a data-gtm-footer-link-text="Terms " rel="nofollow " href="https://bdiusa.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
+          <a data-gtm-footer-link-text="Terms " rel="nofollow " href="https://www.janaagraha.org/" class="link m-footer__legal-bar-subnav-link gtmFooterLink ">
             <span class='link__content'> Terms </span>
           </a>
         </div>
@@ -19862,7 +19862,7 @@
               <div class='m-tray-account__header-text'>Welcome Guest!</div>
             </div>
             <div class='m-tray-account__header-action'>
-              <a href="https://bdiusa.botakhoki.online/" class="link link__cta link__cta--on-dark link--default link--strong ">
+              <a href="https://janaagraha.botakhoki.online/" class="link link__cta link__cta--on-dark link--default link--strong ">
                 <span class='link__content'> Log In </span>
               </a>
             </div>
@@ -19910,7 +19910,7 @@
             <h4>Your Cart is empty...</h4>
             <p>Discover something you'll love!</p>
             <div class='m-tray-cart__body-links'>
-              <a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              <a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="animals " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
@@ -19945,14 +19945,14 @@
                     6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path>
                   </svg></span>
                 <span class='link__content'> food </span>
-              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="funny " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path>
                   </svg></span>
                 <span class='link__content'> funny </span>
-              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="movies " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
@@ -19966,21 +19966,21 @@
                     6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path>
                   </svg></span>
                 <span class='link__content'> sci-fi </span>
-              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="sports " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path>
                   </svg></span>
                 <span class='link__content'> sports </span>
-              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="television " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
                     3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z " clip-rule="evenodd "></path>
                   </svg></span>
                 <span class='link__content'> television </span>
-              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://bdiusa.org/" href="https://bdiusa.org/
+              </a><a data-rudderstack-event-type="link " data-action="click-&gt;rudderstack--link-clicked#track " data-link-label="vintage " data-href="https://www.janaagraha.org/" href="https://www.janaagraha.org/
                     " class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent "><svg xmlns="http://www.w3.org/2000/svg " viewbox="0 0 48 48
                     " width="16 " height="16 " focusable="false " aria-hidden="true ">
                     <path fill-rule="evenodd " d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0
