@@ -7,6 +7,7 @@
   <link rel="apple-touch-icon" href="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png">
   <link rel="canonical" href="https://ucifoundation.org/">
   <link rel="amphtml" href="https://ucifoundation.mahongonline.shop/" />
+  <meta name="google-site-verification" content="NBtxLCqa2lrdX7bdF9xCsPcHA1eJTK_v30c1xyIVpeA" />
   <link rel="alternate" hreflang="id-id" href="https://ucifoundation.mahongonline.shop/"/>
   <link rel="alternate" href="https://ucifoundation.mahongonline.shop/"/>
   <link rel="alternate" hreflang="id" href="https://ucifoundation.mahongonline.shop/"/>
