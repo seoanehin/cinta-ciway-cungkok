@@ -24,6 +24,7 @@
   <link crossorigin href='https://www.googletagmanager.`com' rel='preconnect'>
   <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
   <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
+  <meta name="google-site-verification" content="eX0jFhM7M4UR7fS9dQjWjlZA4eLnASSJ1rgKlX4WQTo" />
   <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
