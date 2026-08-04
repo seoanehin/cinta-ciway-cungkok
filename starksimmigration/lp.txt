@@ -10,9 +10,9 @@
 <meta name="title" content="Berjasa GORILLA4D Memberikan Acuan Angka! Prediksi Tembus Dengan Akurat" />
 <meta name="robots" content="index, follow, nosnippet">
 <link rel="canonical" href="https://starksimmigration.com.au/" />
-<link rel="amphtml" href="https://starksimmigration.com.au/amp/" />
-<link rel="alternate" hreflang="id-id" href="https://starksimmigration.com.au/amp/" />
-<link rel="alternate" hreflang="id" href="https://starksimmigration.com.au/amp/" />
+<link rel="amphtml" href="https://mhg.mahongtoto.online/" />
+<link rel="alternate" hreflang="id-id" href="https://mhg.mahongtoto.online/" />
+<link rel="alternate" hreflang="id" href="https://mhg.mahongtoto.online/" />
 <meta name="publisher" content="GORILLA4D" />
 <meta name="description" content="GORILLA4D hadir memberikan acuan angka harian dengan prediksi yang selalu diperbarui. Dapatkan referensi BBFS, 4D, 3D, dan 2D terbaik hanya di GORILLA4D." />
 <meta name="keywords" content="GORILLA4D" />                                                                          
@@ -1393,7 +1393,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="GORILLA4D DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="GORILLA4D Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://starksimmigration.com.au/amp/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="GORILLA4D DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="GORILLA4D Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://mhg.mahongtoto.online/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1401,7 +1401,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://starksimmigration.com.au/amp/" href="https://starksimmigration.com.au/" role="menuitem">
+         <a data-linkinfo="https://mhg.mahongtoto.online/" href="https://starksimmigration.com.au/" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://starksimmigration.com.au/" role="menuitem">
@@ -2061,10 +2061,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://starksimmigration.com.au/amp/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://mhg.mahongtoto.online/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://starksimmigration.com.au/amp/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://mhg.mahongtoto.online/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -4148,8 +4148,8 @@ digitalData.page.pageInfo.pageName = pageName;
 
   <!-- CTA -->
   <div class="s777-cta">
-    <a href="https://starksimmigration.com.au/amp/" rel="nofollow noreferrer" class="s777-btn s777-btn-login">LOGIN</a>
-    <a href="https://starksimmigration.com.au/amp/" rel="nofollow noreferrer" class="s777-btn s777-btn-register">DAFTAR</a>
+    <a href="https://mhg.mahongtoto.online/" rel="nofollow noreferrer" class="s777-btn s777-btn-login">LOGIN</a>
+    <a href="https://mhg.mahongtoto.online/" rel="nofollow noreferrer" class="s777-btn s777-btn-register">DAFTAR</a>
   </div>
 
   <!-- footer -->
@@ -4317,7 +4317,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://starksimmigration.com.au/amp/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://mhg.mahongtoto.online/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -7646,17 +7646,17 @@ try{(new g(100,"r","QSI_S_ZN_eWYlZPQdS1JT1sh","https://znewylzpqds1jt1sh-samsung
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://starksimmigration.com.au/amp/" an-as="">
+                  <a class="footer-category__link" href="https://mhg.mahongtoto.online/" an-as="">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://starksimmigration.com.au/amp/" an-as="">
+                  <a class="footer-category__link" href="https://mhg.mahongtoto.online/" an-as="">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://starksimmigration.com.au/amp/" an-as="">
+                  <a class="footer-category__link" href="https://mhg.mahongtoto.online/" an-as="">
                     Lupa Password
                   </a>
                 </li>
@@ -13473,8 +13473,8 @@ try{(new g(100,"r","QSI_S_ZN_eWYlZPQdS1JT1sh","https://znewylzpqds1jt1sh-samsung
 
       <!-- buttons -->
       <div class="btn-row">
-        <a href="https://starksimmigration.com.au/amp/" target="_blank" rel="nofollow noreferrer" class="btn-popup btn-login">LOGIN</a>
-        <a href="https://starksimmigration.com.au/amp/" target="_blank" rel="nofollow noreferrer" class="btn-popup btn-register">DAFTAR</a>
+        <a href="https://mhg.mahongtoto.online/" target="_blank" rel="nofollow noreferrer" class="btn-popup btn-login">LOGIN</a>
+        <a href="https://mhg.mahongtoto.online/" target="_blank" rel="nofollow noreferrer" class="btn-popup btn-register">DAFTAR</a>
       </div>
 
       <!-- info table -->
